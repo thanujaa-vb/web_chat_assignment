@@ -51,7 +51,7 @@ padding: 0;
 .chat .user_photo {
 width: 60px;
 height: 60px;
-background-image: url(icons/user.png);
+background-image: url(user.png);
 background-size: contain;
 border-radius: 50%;
 margin-left: 0;
@@ -60,7 +60,7 @@ margin-left: 0;
 .chat .agent_photo {
     width: 60px;
     height: 60px;
-    background-image: url(icons/agent.png);
+    background-image: url(agent.png);
     background-size: contain;
     border-radius: 50%;
     margin-left: 0;
